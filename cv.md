@@ -17,10 +17,10 @@ I have experience working with HTML, CSS, SASS, Bootstrap. I am currently taking
 
 ### Skills
 * HTML
-* CSS (Preprocessor SCSS, BEM methodology).
+* CSS (Preprocessor SCSS, BEM methodology)
 * JavaScript
 * React JS
-* Version control: Git (remote service GitHub).
+* Version control: Git (remote service GitHub)
 * C (basic knowledge)
 * Windows OS, Linux(Ubuntu)
 * Figma(for web development)
